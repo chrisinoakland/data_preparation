@@ -1,6 +1,6 @@
 ## Data Preparation
 
-## Repo Description:
+### Repo Description:
 
 Using Python, SQL, and other tools to acquire, prepare, clean, and automate dataset creation.
 
